@@ -27,18 +27,21 @@ git clone https://github.com/jaumendes/zero-to-tech-job.git
 
 ## 📌 2. Criar e Trabalhar em Branches
 1. Garante que estás na branch `main`:
-   ```
+
+```
 git checkout main
 ```
 
 
 2. Cria uma branch de funcionalidade:
+   
 ```
 git checkout -b feature/say-hello
 ```
 
 3. Edita o `index.html` e adiciona um pequeno texto.
 4. Faz commit com mensagem significativa:
+   
 ```
 git add .
 git commit -m "feat: add greeting paragraph"
