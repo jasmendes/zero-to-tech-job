@@ -54,27 +54,6 @@ Ao final deste módulo o aluno saberá:
 
 ---
 
-# 🚀 Objetivo Final do Workshop
-No final dos 2 módulos, o aluno terá:
-- Experiência real com terminal
-- Instalação e uso de ferramentas profissionais
-- Noção prática de automação
-- Deploy contínuo simples (CI/CD básico)
-- Um site publicado e atualizado automaticamente
-
-Este é o primeiro passo para o primeiro emprego tech.
-
----
-
-Se quiser, posso agora criar um **módulo final extra (opcional)** com:
-- Docker
-- Bots para Slack/Discord
-- Pipelines completas CI/CD
-- Projeto final para portfólio.
-
-
----
-
 # 📘 Módulo 3 — Projeto Realista (Parte 1)
 ## **Git Edit → Git Trigger → Build no Jenkins**
 
@@ -128,7 +107,21 @@ O aluno terá um pipeline completo:
 5. Jenkins faz deploy
 6. Slack recebe notificação
 
-Este é um fluxo real usado em empresas, perfeito para colocar no portfólio.
+---
+
+É um fluxo real usado em empresas, perfeito para colocar no portfólio.
+
+---
+
+# 🚀 Objetivo Final do Workshop
+No final dos 4 módulos, o aluno terá:
+- Experiência real com terminal
+- Instalação e uso de ferramentas profissionais
+- Noção prática de automação
+- Deploy contínuo simples (CI/CD básico)
+- Um site publicado e atualizado automaticamente
+
+Este é o primeiro passo para o primeiro emprego tech.
 
 ---
 
